@@ -1,0 +1,894 @@
+{
+  "period_start_utc": "2026-10-22T11:32:33Z",
+  "period_end_utc": "2026-10-29T11:32:33Z",
+  "search_query": "after:2026/10/21 before:2026/10/30 -in:trash -in:spam",
+  "search_pages": 2,
+  "search_results": 116,
+  "exact_window": 98,
+  "distinct_message_ids": 98,
+  "method": "All pages exhausted; full content of every exact-window message read; categories assigned by sender/subject and content review; subject of non-relevant mail redacted for public archive.",
+  "records": [
+    {
+      "message_id": "1a18765df7ef5a67",
+      "date_utc": "2026-10-29T11:22:38",
+      "sender_domain": "mail.5ka.ru",
+      "subject": "🧮 Минута математики",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a18765df7ef5a67"
+    },
+    {
+      "message_id": "1a1873b550f2d7f8",
+      "date_utc": "2026-10-29T10:36:14",
+      "sender_domain": "github.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1873b550f2d7f8"
+    },
+    {
+      "message_id": "1a1873ae75136d0c",
+      "date_utc": "2026-10-29T10:35:46",
+      "sender_domain": "github.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1873ae75136d0c"
+    },
+    {
+      "message_id": "1a1873a42d786a4b",
+      "date_utc": "2026-10-29T10:35:04",
+      "sender_domain": "github.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1873a42d786a4b"
+    },
+    {
+      "message_id": "1a18739073f2b756",
+      "date_utc": "2026-10-29T10:33:43",
+      "sender_domain": "github.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a18739073f2b756"
+    },
+    {
+      "message_id": "1a187376c0f975ea",
+      "date_utc": "2026-10-29T10:31:57",
+      "sender_domain": "github.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a187376c0f975ea"
+    },
+    {
+      "message_id": "1a18717382badcdd",
+      "date_utc": "2026-10-29T09:56:17",
+      "sender_domain": "zarina.ru",
+      "subject": "ICONIC. Новая глава",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a18717382badcdd"
+    },
+    {
+      "message_id": "1a1870ded9295882",
+      "date_utc": "2026-10-29T09:46:38",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1870ded9295882"
+    },
+    {
+      "message_id": "1a186f12158993f7",
+      "date_utc": "2026-10-29T09:15:08",
+      "sender_domain": "albato.ru",
+      "subject": "Как настроить интеграцию",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a186f12158993f7"
+    },
+    {
+      "message_id": "1a186d5ba0533353",
+      "date_utc": "2026-10-29T08:45:12",
+      "sender_domain": "albato.com",
+      "subject": "Your Automation is Set Up – Check out Essential Tools to Automate Smarter",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a186d5ba0533353"
+    },
+    {
+      "message_id": "1a186d2095d3e985",
+      "date_utc": "2026-10-29T08:41:13",
+      "sender_domain": "benetton.ru",
+      "subject": "Особое внимание к материалам",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a186d2095d3e985"
+    },
+    {
+      "message_id": "1a186a4648825570",
+      "date_utc": "2026-10-29T07:50:10",
+      "sender_domain": "welcomebackhome.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a186a4648825570"
+    },
+    {
+      "message_id": "1a18693c572d7132",
+      "date_utc": "2026-10-29T07:33:12",
+      "sender_domain": "organic-people.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a18693c572d7132"
+    },
+    {
+      "message_id": "1a186551967d1dea",
+      "date_utc": "2026-10-29T06:24:39",
+      "sender_domain": "news.alpindustria.ru",
+      "subject": "🎿 Сезон не за горами: новинки горнолыжных ботинок Dynafit",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a186551967d1dea"
+    },
+    {
+      "message_id": "1a185bb97000c37e",
+      "date_utc": "2026-10-29T03:37:04",
+      "sender_domain": "2moodstore.com",
+      "subject": "Нам важно ваше мнение",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a185bb97000c37e"
+    },
+    {
+      "message_id": "1a182f6b24c0b785",
+      "date_utc": "2026-10-28T14:42:47",
+      "sender_domain": "e.cos.com",
+      "subject": "Welcome to COS",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182f6b24c0b785"
+    },
+    {
+      "message_id": "1a182f0fec61ea39",
+      "date_utc": "2026-10-28T14:36:32",
+      "sender_domain": "na.patagonia.com",
+      "subject": "Welcome to Patagonia emails",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182f0fec61ea39"
+    },
+    {
+      "message_id": "1a182ef456d5b574",
+      "date_utc": "2026-10-28T13:55:43",
+      "sender_domain": "peakstore.ru",
+      "subject": "+3000 бонусов",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182ef456d5b574"
+    },
+    {
+      "message_id": "1a182ee367b5b79a",
+      "date_utc": "2026-10-28T14:33:31",
+      "sender_domain": "us-news.adidas.com",
+      "subject": "Welcome - We’ve been saving this for you…",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182ee367b5b79a"
+    },
+    {
+      "message_id": "1a182ee210e8e31e",
+      "date_utc": "2026-10-28T14:33:25",
+      "sender_domain": "us-info.adidas.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182ee210e8e31e"
+    },
+    {
+      "message_id": "1a182ecac6a7740b",
+      "date_utc": "2026-10-28T14:31:50",
+      "sender_domain": "us-info.adidas.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182ecac6a7740b"
+    },
+    {
+      "message_id": "1a182eb3badc1f24",
+      "date_utc": "2026-10-28T14:30:15",
+      "sender_domain": "uniqlo.com",
+      "subject": "Welcome! Get to know us",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182eb3badc1f24"
+    },
+    {
+      "message_id": "1a182e9eec3b5d77",
+      "date_utc": "2026-10-28T14:28:51",
+      "sender_domain": "ml.store.uniqlo.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182e9eec3b5d77"
+    },
+    {
+      "message_id": "1a182e9e0bda701c",
+      "date_utc": "2026-10-28T14:28:47",
+      "sender_domain": "mail.fastretailing.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182e9e0bda701c"
+    },
+    {
+      "message_id": "1a182e9c66ab09ad",
+      "date_utc": "2026-10-28T14:28:40",
+      "sender_domain": "ml.store.uniqlo.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182e9c66ab09ad"
+    },
+    {
+      "message_id": "1a182e77c6c6e735",
+      "date_utc": "2026-10-28T14:26:10",
+      "sender_domain": "cs.cos.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182e77c6c6e735"
+    },
+    {
+      "message_id": "1a182d6e2a1d369b",
+      "date_utc": "2026-10-28T14:08:03",
+      "sender_domain": "gmail.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182d6e2a1d369b"
+    },
+    {
+      "message_id": "1a182cf4b428027e",
+      "date_utc": "2026-10-28T13:59:37",
+      "sender_domain": "2moodstore.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182cf4b428027e"
+    },
+    {
+      "message_id": "1a182cd8ee6abdf4",
+      "date_utc": "2026-10-28T13:57:52",
+      "sender_domain": "gmail.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182cd8ee6abdf4"
+    },
+    {
+      "message_id": "1a182cc1106b0c50",
+      "date_utc": "2026-10-28T13:56:14",
+      "sender_domain": "gmail.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182cc1106b0c50"
+    },
+    {
+      "message_id": "1a182be38a2c69ee",
+      "date_utc": "2026-10-28T13:41:05",
+      "sender_domain": "accounts.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182be38a2c69ee"
+    },
+    {
+      "message_id": "1a182b329790b731",
+      "date_utc": "2026-10-28T13:29:00",
+      "sender_domain": "benetton.ru",
+      "subject": "Особое внимание к материалам",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182b329790b731"
+    },
+    {
+      "message_id": "1a182ada34e48a61",
+      "date_utc": "2026-10-28T13:22:58",
+      "sender_domain": "accounts.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a182ada34e48a61"
+    },
+    {
+      "message_id": "1a1826cdbf1e0d81",
+      "date_utc": "2026-10-28T12:03:53",
+      "sender_domain": "welcomebackhome.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1826cdbf1e0d81"
+    },
+    {
+      "message_id": "1a18200dc9dbe7a2",
+      "date_utc": "2026-10-28T08:12:20",
+      "sender_domain": "aeroflot.ru",
+      "subject": "⛷️ Снаряжение летит бесплатно!",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a18200dc9dbe7a2"
+    },
+    {
+      "message_id": "1a181142c06441b0",
+      "date_utc": "2026-10-28T05:55:44",
+      "sender_domain": "hh.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a181142c06441b0"
+    },
+    {
+      "message_id": "1a17e82bd99b20c6",
+      "date_utc": "2026-10-27T17:57:38",
+      "sender_domain": "marketing.descript.com",
+      "subject": "Create scroll-stopping clips for social media in minutes",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17e82bd99b20c6"
+    },
+    {
+      "message_id": "1a17e1f8b707facd",
+      "date_utc": "2026-10-27T16:01:20",
+      "sender_domain": "email.benetton.com",
+      "subject": "This season’s new puffer jackets",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17e1f8b707facd"
+    },
+    {
+      "message_id": "1a17dd4d65ab8d7c",
+      "date_utc": "2026-10-27T14:47:39",
+      "sender_domain": "alium.io",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17dd4d65ab8d7c"
+    },
+    {
+      "message_id": "1a17dcb61f09d3c6",
+      "date_utc": "2026-10-27T14:37:21",
+      "sender_domain": "site.hh.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17dcb61f09d3c6"
+    },
+    {
+      "message_id": "1a17da46dcc1f7ed",
+      "date_utc": "2026-10-27T13:54:49",
+      "sender_domain": "monochrome.ru",
+      "subject": "LAST CHANCE TO BUY",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17da46dcc1f7ed"
+    },
+    {
+      "message_id": "1a17d9fe28ce787e",
+      "date_utc": "2026-10-27T13:49:52",
+      "sender_domain": "news.ozon.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17d9fe28ce787e"
+    },
+    {
+      "message_id": "1a17d8c0e8bc8ce3",
+      "date_utc": "2026-10-27T12:55:20",
+      "sender_domain": "peakstore.ru",
+      "subject": "Новый дроп Carhartt WIP",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17d8c0e8bc8ce3"
+    },
+    {
+      "message_id": "1a17d6d9f725930f",
+      "date_utc": "2026-10-27T12:54:57",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17d6d9f725930f"
+    },
+    {
+      "message_id": "1a17d289f588b4ac",
+      "date_utc": "2026-10-27T11:39:35",
+      "sender_domain": "ru.sisley.com",
+      "subject": "Цвет, который говорит за вас",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17d289f588b4ac"
+    },
+    {
+      "message_id": "1a17cfbb41e83664",
+      "date_utc": "2026-10-27T10:50:32",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17cfbb41e83664"
+    },
+    {
+      "message_id": "1a17cee91fc7ba2c",
+      "date_utc": "2026-10-27T10:36:11",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17cee91fc7ba2c"
+    },
+    {
+      "message_id": "1a17ce9470a3024b",
+      "date_utc": "2026-10-27T10:30:24",
+      "sender_domain": "benetton.ru",
+      "subject": "Искусство многослойности",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17ce9470a3024b"
+    },
+    {
+      "message_id": "1a17ce6f567dc67e",
+      "date_utc": "2026-10-27T10:27:52",
+      "sender_domain": "sport-marafon.ru",
+      "subject": "Дайджест блога: Выбираем пуховые шорты и ботинки для фрирайда",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17ce6f567dc67e"
+    },
+    {
+      "message_id": "1a17cdd9ef5b2172",
+      "date_utc": "2026-10-27T10:17:41",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17cdd9ef5b2172"
+    },
+    {
+      "message_id": "1a17ccfefe5dfcde",
+      "date_utc": "2026-10-27T10:02:01",
+      "sender_domain": "e.dji.com",
+      "subject": "Subscriber-only codes for the DJI Power series. Valid Oct 27-29.",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17ccfefe5dfcde"
+    },
+    {
+      "message_id": "1a17cbe2bacda49f",
+      "date_utc": "2026-10-27T09:43:19",
+      "sender_domain": "zarina.ru",
+      "subject": "Стильные рекомендации от арт-директора",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17cbe2bacda49f"
+    },
+    {
+      "message_id": "1a17cbacdc27f90d",
+      "date_utc": "2026-10-27T09:39:39",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17cbacdc27f90d"
+    },
+    {
+      "message_id": "1a17c958bc8dc952",
+      "date_utc": "2026-10-27T08:58:57",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17c958bc8dc952"
+    },
+    {
+      "message_id": "1a17c6cd90ed9c46",
+      "date_utc": "2026-10-27T08:14:29",
+      "sender_domain": "organic-people.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17c6cd90ed9c46"
+    },
+    {
+      "message_id": "1a17c105260a723a",
+      "date_utc": "2026-10-27T06:25:35",
+      "sender_domain": "welcomebackhome.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17c105260a723a"
+    },
+    {
+      "message_id": "1a1795c58717057e",
+      "date_utc": "2026-10-26T17:57:36",
+      "sender_domain": "marketing.descript.com",
+      "subject": "Cut the busywork, not your flow",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1795c58717057e"
+    },
+    {
+      "message_id": "1a1794d4bc62ec24",
+      "date_utc": "2026-10-26T17:41:09",
+      "sender_domain": "accounts.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1794d4bc62ec24"
+    },
+    {
+      "message_id": "1a1794a8acbdbe61",
+      "date_utc": "2026-10-26T17:38:07",
+      "sender_domain": "accounts.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1794a8acbdbe61"
+    },
+    {
+      "message_id": "1a17949d8114b124",
+      "date_utc": "2026-10-26T17:37:24",
+      "sender_domain": "accounts.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17949d8114b124"
+    },
+    {
+      "message_id": "1a17948a84a0ca58",
+      "date_utc": "2026-10-26T17:36:02",
+      "sender_domain": "accounts.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17948a84a0ca58"
+    },
+    {
+      "message_id": "1a1790d27ebfbf3d",
+      "date_utc": "2026-10-26T16:31:06",
+      "sender_domain": "email.figma.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1790d27ebfbf3d"
+    },
+    {
+      "message_id": "1a178cd84abee784",
+      "date_utc": "2026-10-26T15:21:36",
+      "sender_domain": "benetton.ru",
+      "subject": "Искусство многослойности",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a178cd84abee784"
+    },
+    {
+      "message_id": "1a178bb07e2a8d5c",
+      "date_utc": "2026-10-26T15:01:24",
+      "sender_domain": "sport-marafon.ru",
+      "subject": "BASK: новое пространство в \"Спорт-Марафоне\"",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a178bb07e2a8d5c"
+    },
+    {
+      "message_id": "1a177e85bc005222",
+      "date_utc": "2026-10-26T10:48:05",
+      "sender_domain": "aeroflot.ru",
+      "subject": "👤 Биометрия в аэропорту: удобно и быстро!",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a177e85bc005222"
+    },
+    {
+      "message_id": "1a176eb12ca4534a",
+      "date_utc": "2026-10-26T06:34:39",
+      "sender_domain": "zarina.ru",
+      "subject": "Промокоды для удачного шопинга 💅",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a176eb12ca4534a"
+    },
+    {
+      "message_id": "1a176bfed8e14b53",
+      "date_utc": "2026-10-26T05:47:31",
+      "sender_domain": "smbn.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a176bfed8e14b53"
+    },
+    {
+      "message_id": "1a176bd32e48698b",
+      "date_utc": "2026-10-26T05:44:32",
+      "sender_domain": "thecultt.com",
+      "subject": "Это вау!",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a176bd32e48698b"
+    },
+    {
+      "message_id": "1a17435f99e1c632",
+      "date_utc": "2026-10-25T17:57:35",
+      "sender_domain": "marketing.descript.com",
+      "subject": "Make video that looks good by default",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17435f99e1c632"
+    },
+    {
+      "message_id": "1a17420aee362e74",
+      "date_utc": "2026-10-25T17:34:20",
+      "sender_domain": "email.benetton.com",
+      "subject": "Flash Promo -20% online now",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17420aee362e74"
+    },
+    {
+      "message_id": "1a17409b890a2773",
+      "date_utc": "2026-10-25T17:09:16",
+      "sender_domain": "avito.ru",
+      "subject": "Вернём 50% затрат бонусами 💰",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a17409b890a2773"
+    },
+    {
+      "message_id": "1a1739695d9fd8da",
+      "date_utc": "2026-10-25T15:03:29",
+      "sender_domain": "email.benetton.com",
+      "subject": "-20% online today from 4:00 PM to 8:00 PM",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1739695d9fd8da"
+    },
+    {
+      "message_id": "1a172ce5e170f1bb",
+      "date_utc": "2026-10-25T11:24:49",
+      "sender_domain": "zarina.ru",
+      "subject": "Новая коллекция",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a172ce5e170f1bb"
+    },
+    {
+      "message_id": "1a172108f4071db6",
+      "date_utc": "2026-10-25T07:57:29",
+      "sender_domain": "e.stories.com",
+      "subject": "Last chance: Extra 20% off sale",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a172108f4071db6"
+    },
+    {
+      "message_id": "1a16f0f94987bc2e",
+      "date_utc": "2026-10-24T17:57:33",
+      "sender_domain": "marketing.descript.com",
+      "subject": "Edit videos like a pro",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16f0f94987bc2e"
+    },
+    {
+      "message_id": "1a16d1de764ee07f",
+      "date_utc": "2026-10-24T08:53:57",
+      "sender_domain": "hh.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16d1de764ee07f"
+    },
+    {
+      "message_id": "1a16d01dd4875439",
+      "date_utc": "2026-10-24T08:23:20",
+      "sender_domain": "benetton.ru",
+      "subject": "Бестселлеры распродажи",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16d01dd4875439"
+    },
+    {
+      "message_id": "1a16cef8beeb32b0",
+      "date_utc": "2026-10-24T08:03:19",
+      "sender_domain": "email.benetton.com",
+      "subject": "Knitwear to mix and match",
+      "classification": "fashion",
+      "previously_published": true,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16cef8beeb32b0"
+    },
+    {
+      "message_id": "1a16ccffd2743408",
+      "date_utc": "2026-10-24T07:28:52",
+      "sender_domain": "sport-marafon.ru",
+      "subject": "Любимые пуховые тапки и городские хиты",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16ccffd2743408"
+    },
+    {
+      "message_id": "1a16c9b725e3c348",
+      "date_utc": "2026-10-24T06:30:44",
+      "sender_domain": "welcomebackhome.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16c9b725e3c348"
+    },
+    {
+      "message_id": "1a169e9311855963",
+      "date_utc": "2026-10-23T17:57:31",
+      "sender_domain": "marketing.descript.com",
+      "subject": "Stop exporting between four apps to make one video",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a169e9311855963"
+    },
+    {
+      "message_id": "1a169d69a09a97d4",
+      "date_utc": "2026-10-23T17:37:13",
+      "sender_domain": "rzd-bonus.ru",
+      "subject": "Билеты на матчи ФК «Локомотив»",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a169d69a09a97d4"
+    },
+    {
+      "message_id": "1a168cc94cca00df",
+      "date_utc": "2026-10-23T12:46:39",
+      "sender_domain": "docs.google.com",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a168cc94cca00df"
+    },
+    {
+      "message_id": "1a168a14a414cb09",
+      "date_utc": "2026-10-23T11:59:22",
+      "sender_domain": "teamlogs.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a168a14a414cb09"
+    },
+    {
+      "message_id": "1a16882d1ae59d8b",
+      "date_utc": "2026-10-23T11:22:21",
+      "sender_domain": "avito.ru",
+      "subject": "🖤 Вам стоит сделать предложение",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16882d1ae59d8b"
+    },
+    {
+      "message_id": "1a167cbaf37d96d8",
+      "date_utc": "2026-10-23T08:06:03",
+      "sender_domain": "benetton.ru",
+      "subject": "Осень в трёх оттенках",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a167cbaf37d96d8"
+    },
+    {
+      "message_id": "1a16777e98818e2b",
+      "date_utc": "2026-10-23T06:34:33",
+      "sender_domain": "news.ozon.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16777e98818e2b"
+    },
+    {
+      "message_id": "1a16759d709e38e3",
+      "date_utc": "2026-10-23T06:01:42",
+      "sender_domain": "avito.ru",
+      "subject": "⚖️ Аренда или своя квартира",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16759d709e38e3"
+    },
+    {
+      "message_id": "1a166106de7419a4",
+      "date_utc": "2026-10-23T00:01:54",
+      "sender_domain": "framer.com",
+      "subject": "Introducing Framer MCP",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a166106de7419a4"
+    },
+    {
+      "message_id": "1a164d19abe69378",
+      "date_utc": "2026-10-22T18:13:39",
+      "sender_domain": "read.ai",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a164d19abe69378"
+    },
+    {
+      "message_id": "1a164d19089d37e3",
+      "date_utc": "2026-10-22T18:13:37",
+      "sender_domain": "e.read.ai",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a164d19089d37e3"
+    },
+    {
+      "message_id": "1a164d18fe2cd5d3",
+      "date_utc": "2026-10-22T18:13:37",
+      "sender_domain": "e.read.ai",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "service",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a164d18fe2cd5d3"
+    },
+    {
+      "message_id": "1a164c2c4fa2356f",
+      "date_utc": "2026-10-22T17:57:27",
+      "sender_domain": "marketing.descript.com",
+      "subject": "Welcome to Descript. Let AI do the heavy lifting.",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a164c2c4fa2356f"
+    },
+    {
+      "message_id": "1a164a83533d41c8",
+      "date_utc": "2026-10-22T17:28:27",
+      "sender_domain": "avito.ru",
+      "subject": "🪄 Вжух → и шанс на 300 000 ₽",
+      "classification": "crm_other",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a164a83533d41c8"
+    },
+    {
+      "message_id": "1a1642ecb2320ae8",
+      "date_utc": "2026-10-22T15:15:49",
+      "sender_domain": "belleyou.ru",
+      "subject": "БЬЮТИ БОКС уже в магазинах и на сайте",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1642ecb2320ae8"
+    },
+    {
+      "message_id": "1a163a1c4925fc38",
+      "date_utc": "2026-10-22T12:41:48",
+      "sender_domain": "zarina.ru",
+      "subject": "-20% на маркетплейсах",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a163a1c4925fc38"
+    },
+    {
+      "message_id": "1a1639dd89b125e3",
+      "date_utc": "2026-10-22T12:37:29",
+      "sender_domain": "site.hh.ru",
+      "subject": "[редактировано: служебное или нерелевантное]",
+      "classification": "irrelevant",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a1639dd89b125e3"
+    },
+    {
+      "message_id": "1a16395a51e65ad5",
+      "date_utc": "2026-10-22T12:11:40",
+      "sender_domain": "peakstore.ru",
+      "subject": "Провожаем октябрь",
+      "classification": "fashion",
+      "previously_published": false,
+      "gmail_url": "https://mail.google.com/mail/u/0/#all/1a16395a51e65ad5"
+    }
+  ]
+}

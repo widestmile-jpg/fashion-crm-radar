@@ -1,0 +1,30 @@
+name: Fashion CRM Radar — test screenshot (no publishing)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  screenshot-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Playwright
+        run: |
+          python -m pip install --quiet playwright
+          python -m playwright install --with-deps chromium
+      - name: Render existing anonymized reconstruction, not an actual email
+        run: python scripts/screenshot_smoke_test.py
+      - name: Save image for review; never publish to Pages or email
+        uses: actions/upload-artifact@v4
+        with:
+          name: fashion-radar-screenshot-smoke-test
+          path: screenshot-test/
+          retention-days: 7
+          if-no-files-found: error

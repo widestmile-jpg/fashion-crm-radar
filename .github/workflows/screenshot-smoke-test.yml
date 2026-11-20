@@ -2,6 +2,10 @@ name: Fashion CRM Radar — test screenshot (no publishing)
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/screenshot-smoke-test.yml'
+      - 'scripts/screenshot_smoke_test.py'
 
 permissions:
   contents: read

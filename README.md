@@ -37,3 +37,25 @@ This operation **replaces `index.html`**. It does not send email and it does not
 ## Current safety status
 
 The external ChatGPT Fashion CRM Radar scheduled task is paused. This repository has **no automated newsletter delivery**. The publishing workflow requires an explicit confirmation in GitHub Actions.
+
+## Next step: direct Gmail authorization (without ChatGPT plugins)
+
+Gmail is **not connected** to this GitHub project yet. The workflow `.github/workflows/gmail-connection-check.yml` is manually runnable and only verifies read-only authorization; it never downloads or logs email content.
+
+1. Open [Google Cloud Console](https://console.cloud.google.com/). Create or select your own project and enable **Gmail API**.
+2. Configure **Google Auth platform → Branding / Audience / Data Access**. For a personal Gmail account choose **External**. In testing mode add your own account under **Test users**. Request the minimum `https://www.googleapis.com/auth/gmail.readonly` scope. This scope is considered restricted; read Google's data handling and verification rules.
+3. In **Google Auth platform → Clients**, create OAuth client ID of type **Desktop app**, download the JSON as `credentials.json` **to your own computer**. Never upload this file to GitHub or ChatGPT.
+4. In a local terminal with Python installed run `python -m pip install google-auth-oauthlib` and then `python scripts/google_oauth_local.py` from your own checkout of this repository. Sign in via the browser on your own device and grant **read-only** access.
+5. Copy the client ID, client secret and refresh token **locally** into repository **Settings → Secrets and variables → Actions → New repository secret** as `GMAIL_OAUTH_CLIENT_ID`, `GMAIL_OAUTH_CLIENT_SECRET`, `GMAIL_OAUTH_REFRESH_TOKEN`. Do not paste them into chat.
+6. Run **Actions → Fashion CRM Radar — Gmail connection check (no content) → Run workflow**. A success only confirms permission; it does not mean competitor newsletter collection works yet.
+
+**Important longevity caveat:** for an External OAuth app in Google's **Testing** status, refresh tokens involving Gmail access generally expire after **7 days**. Long-running weekly jobs need a suitable OAuth app publishing status and compliance with applicable Google verification rules. Do not assume that a testing token enables perpetual automation.
+
+**Public repository privacy:** this repository is currently public. Store no original Gmail HTML, private Gmail links, customer data or raw screenshots here or in GitHub Pages. Before implementing Gmail collection/rendering, set up a separate private staging repository or access-controlled storage. This connection check only retrieves up to five message IDs in memory (not content) and does not display or store any of them. GitHub Secrets protect credentials at rest, but people with write access to workflows can potentially use them.
+
+Official references:
+- https://developers.google.com/workspace/gmail/api/quickstart/python
+- https://developers.google.com/workspace/gmail/api/auth/scopes
+- https://developers.google.com/identity/protocols/oauth2
+- https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets
+

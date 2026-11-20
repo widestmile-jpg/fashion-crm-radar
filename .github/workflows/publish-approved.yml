@@ -1,0 +1,45 @@
+name: Fashion CRM Radar — publish approved issue
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_path:
+        description: "Reviewed HTML file, e.g. issues/2026-10-29-final-review.html"
+        required: true
+        type: string
+      confirmation:
+        description: "Type PUBLISH_APPROVED to replace the public home page"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fashion-radar-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: inputs.confirmation == 'PUBLISH_APPROVED'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Validate source path and stage approved HTML
+        env:
+          ISSUE_PATH: ${{ inputs.issue_path }}
+        run: python scripts/stage_approved_issue.py
+      - name: Publish approved page to current site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+          else
+            git commit -m "Publish manually approved Fashion CRM Radar issue"
+            git push
+          fi

@@ -204,5 +204,28 @@
       "name": "Снежная Королева",
       "subscription_status": "not_confirmed"
     }
-  ]
+  ],
+  "delivery": {
+    "mode": "manual_approval_only",
+    "auto_send_enabled": false,
+    "recipients": [
+      {
+        "name": "Sokolova Sabina",
+        "email": "Sabina.Sokolova@benetton.com"
+      },
+      {
+        "name": "Ischuk Valeria",
+        "email": "Valeria.Ischuk@benetton.com"
+      },
+      {
+        "name": "Guseva Vilena",
+        "email": "Vilena.Guseva@benetton.com"
+      },
+      {
+        "name": "Demurcheva Melina",
+        "email": "Melina.Demurcheva@benetton.com"
+      }
+    ],
+    "approval": "Не отправлять автоматически. Только после проверки выпуска пользователем и отдельного явного разрешения на отправку. Никаких тестовых писем адресатам без согласования."
+  }
 }

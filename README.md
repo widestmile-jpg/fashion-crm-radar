@@ -2,6 +2,14 @@
 
 Weekly competitive email marketing research. The public GitHub Pages site contains only deliberately published editorial material.
 
+## Radar editorial watchlist (48 brands)
+
+The standing competitor watchlist, current subscription-status notes, and publication rules live in [config/radar-monitoring.json](config/radar-monitoring.json). These brands are monitored as **candidates**; a website form confirmation is not proof that newsletters have begun arriving.
+
+Every future issue must use the selected **02 compact white** design and the existing three sections: Benetton/Sisley Global, other mass newsletters, and personalized newsletters. Preserve original subjects and preheaders, describe mechanisms in Russian, and link each hypothesis to its original example. **Only include an actual received email if a link to a reader-accessible web version or safe public copy exists**. No Gmail-only links or unlinked cards. Do not publish internal workflow or staging commentary in the issue.
+
+This update configures editorial scope, **not** a running scheduled Gmail ingestion or report generation. Apps Script read-only access was manually verified, but no independent automated end-to-end pipeline is deployed. Keep publication and sending approval-gated.
+
 ## Subscription-independent control
 
 The GitHub repository and its Actions workflows can be used from the **Actions** tab without a ChatGPT plugin. This is a manual-review mode, not yet a production automated email-ingestion system.

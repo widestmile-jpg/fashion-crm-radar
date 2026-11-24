@@ -10,6 +10,12 @@ Every future issue must use the selected **02 compact white** design and the exi
 
 This update configures editorial scope, **not** a running scheduled Gmail ingestion or report generation. Apps Script read-only access was manually verified, but no independent automated end-to-end pipeline is deployed. Keep publication and sending approval-gated.
 
+## Permanent monitoring scope and editorial policy
+
+The committed [monitoring configuration](config/monitoring.json) contains 48 additional fashion brands plus Benetton Global and Sisley Global. It is the canonical list for the weekly Fashion CRM Radar editorial selection. Brand names are **candidates to monitor**, not proof that the mailbox has a confirmed subscription or that GitHub can already ingest mail.
+
+Only actual Gmail-received newsletters are eligible. An issue includes a newsletter only when a publicly accessible browser version or a verified viewable copy exists; no Gmail-only links. Keep original subjects/preheaders, separate global newsletters, other mass newsletters and personal/trigger emails, and attach the specific evidence link to each hypothesis. Prepare for human review before publication. This configuration does **not** activate unattended collection, scheduled processing, or automatic publishing.
+
 ## Subscription-independent control
 
 The GitHub repository and its Actions workflows can be used from the **Actions** tab without a ChatGPT plugin. This is a manual-review mode, not yet a production automated email-ingestion system.

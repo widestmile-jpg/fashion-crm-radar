@@ -1,0 +1,208 @@
+{
+  "name": "Fashion CRM Radar — реестр брендов для постоянного мониторинга",
+  "updated_at": "2026-11-24",
+  "gmail": "widestmile@gmail.com",
+  "scope": "Все перечисленные бренды проверяются в поступающих письмах Gmail, независимо от состояния подписки. Статусы подписок справочные и не означают наличие свежих писем.",
+  "monitoring_rule": "Каждую неделю искать и читать поступившие fashion-рассылки указанных брендов. В публичный выпуск включать только письма с реально доступной оригинальной веб-версией и релевантной CRM-механикой. Не считать товарные CTA веб-версией. Письма без веб-версии исключать из опубликованного выпуска. Для каждой гипотезы обязательно приводить ссылку на то конкретное письмо, откуда пришла идея. Не размещать технические/служебные заметки на публичной странице.",
+  "sections": [
+    "Benetton и Sisley Global (глобальные рассылки)",
+    "Другие массовые рассылки",
+    "Персональные рассылки",
+    "Гипотезы"
+  ],
+  "subscription_status_note": "Статусы по результатам проверок 23–24 ноября 2026; некоторые проверки не были завершены. Не утверждать, что для неотмеченных брендов подписка оформлена.",
+  "brands": [
+    {
+      "name": "12 STOREEZ",
+      "subscription_status": "confirmed_by_website"
+    },
+    {
+      "name": "2MOOD",
+      "subscription_status": "confirmed_by_website"
+    },
+    {
+      "name": "4FORMS",
+      "subscription_status": "confirmed_by_website"
+    },
+    {
+      "name": "ALL WE NEED",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "ANNA PEKUN",
+      "subscription_status": "not_confirmed"
+    },
+    {
+      "name": "Balabala",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "BAON",
+      "subscription_status": "needs_email_confirmation"
+    },
+    {
+      "name": "Befree",
+      "subscription_status": "not_confirmed"
+    },
+    {
+      "name": "BRUSNIKA",
+      "subscription_status": "confirmed_by_website"
+    },
+    {
+      "name": "DUB",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "ECRU",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Emka",
+      "subscription_status": "not_confirmed"
+    },
+    {
+      "name": "EMME",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "ETE CHILDREN",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "FINN FLARE",
+      "subscription_status": "confirmed_by_website"
+    },
+    {
+      "name": "GANT",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "GATE31",
+      "subscription_status": "confirmed_by_website"
+    },
+    {
+      "name": "GERARD DAREL",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Gloria Jeans",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "GLVR",
+      "subscription_status": "not_confirmed"
+    },
+    {
+      "name": "GUESS",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "HENDERSON",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "IDOL",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "IRO",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "KANZLER",
+      "subscription_status": "not_confirmed"
+    },
+    {
+      "name": "Lassie",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "LICHI",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "LIMÉ",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "LOVE REPUBLIC",
+      "subscription_status": "not_confirmed"
+    },
+    {
+      "name": "Lusio",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "MAAG",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Marc O'Polo",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Marella",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Mark formelle",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "MEZZATORRE",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Mustang-Jeans",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "O'STIN",
+      "subscription_status": "not_confirmed"
+    },
+    {
+      "name": "Present & Simple",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "SELA",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Stefanel",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Tara Jarmon",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "TOM TAILOR",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "TWINSET",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "Ushatava",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "VASSA&Co.",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "YOU WANNA",
+      "subscription_status": "not_verified"
+    },
+    {
+      "name": "ZARINA",
+      "subscription_status": "confirmed_by_website"
+    },
+    {
+      "name": "Снежная Королева",
+      "subscription_status": "not_confirmed"
+    }
+  ]
+}

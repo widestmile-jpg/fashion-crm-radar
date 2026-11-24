@@ -1,0 +1,238 @@
+{
+  "title": "CRM FASHION RADAR — постоянный аудит email-рассылок",
+  "mailbox": "widestmile@gmail.com",
+  "cadence": "weekly",
+  "period": "previous complete Monday–Sunday",
+  "version": "2026-11-24",
+  "publication": {
+    "requires_approval": true,
+    "automated_sending": false,
+    "theme": "02-compact-white",
+    "groups": [
+      "Benetton и Sisley Global",
+      "Другие массовые рассылки",
+      "Персональные рассылки"
+    ],
+    "only_include_when": "An actual received marketing email is available AND a web-version link or publicly readable safe archive is available to report readers",
+    "subject_and_preheader": "Preserve original language and spelling",
+    "analysis_language": "ru",
+    "hypotheses": "Ideas and why they matter; each cites specific example email with publicly viewable link; no testing methodology",
+    "exclude": [
+      "Gmail-only message links",
+      "Unlinked email cards",
+      "Internal status, caveats or staging notes inside publication",
+      "Duplicate branding text"
+    ],
+    "review_scope": "Track brands even when no email arrived; do not invent sends, volumes, or coverage",
+    "sources": "Received emails in mailbox, not brand homepage alone"
+  },
+  "global_brands": [
+    "Benetton Global",
+    "Sisley Global"
+  ],
+  "monitored_brands": [
+    {
+      "brand": "12 STOREEZ",
+      "status": "website_confirmed"
+    },
+    {
+      "brand": "2MOOD",
+      "status": "website_confirmed"
+    },
+    {
+      "brand": "4FORMS",
+      "status": "website_confirmed"
+    },
+    {
+      "brand": "ALL WE NEED",
+      "status": "needs_manual_attention",
+      "note": "проверка завершилась тайм-аутом"
+    },
+    {
+      "brand": "ANNA PEKUN",
+      "status": "needs_manual_attention",
+      "note": "форма не найдена"
+    },
+    {
+      "brand": "Balabala",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "BAON",
+      "status": "email_confirmation_required"
+    },
+    {
+      "brand": "Befree",
+      "status": "needs_manual_attention",
+      "note": "форма требует дополнительных полей; попытка автоматизации не завершилась"
+    },
+    {
+      "brand": "BRUSNIKA",
+      "status": "website_confirmed"
+    },
+    {
+      "brand": "DUB",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "ECRU",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Emka",
+      "status": "needs_manual_attention",
+      "note": "на проверенном оптовом сайте формы нет; розничный сайт не проверен"
+    },
+    {
+      "brand": "EMME",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "ETE CHILDREN",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "FINN FLARE",
+      "status": "website_confirmed"
+    },
+    {
+      "brand": "GANT",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "GATE31",
+      "status": "website_confirmed"
+    },
+    {
+      "brand": "GERARD DAREL",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Gloria Jeans",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "GLVR",
+      "status": "needs_manual_attention",
+      "note": "сайт вернул ошибку при отправке"
+    },
+    {
+      "brand": "GUESS",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "HENDERSON",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "IDOL",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "IRO",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "KANZLER",
+      "status": "needs_manual_attention",
+      "note": "форма требует ручного прохождения CAPTCHA"
+    },
+    {
+      "brand": "Lassie",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "LICHI",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "LIMÉ",
+      "status": "needs_manual_attention",
+      "note": "для подписки требуется телефон и другие личные данные"
+    },
+    {
+      "brand": "LOVE REPUBLIC",
+      "status": "needs_manual_attention",
+      "note": "форма не найдена"
+    },
+    {
+      "brand": "Lusio",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "MAAG",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Marc O'Polo",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Marella",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Mark formelle",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "MEZZATORRE",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Mustang-Jeans",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "O'STIN",
+      "status": "needs_manual_attention",
+      "note": "сайт блокирует автоматический доступ"
+    },
+    {
+      "brand": "Present & Simple",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "SELA",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Stefanel",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Tara Jarmon",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "TOM TAILOR",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "TWINSET",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "Ushatava",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "VASSA&Co.",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "YOU WANNA",
+      "status": "pending_verification"
+    },
+    {
+      "brand": "ZARINA",
+      "status": "website_confirmed"
+    },
+    {
+      "brand": "Снежная Королева",
+      "status": "needs_manual_attention",
+      "note": "сайт вернул ошибку при отправке"
+    }
+  ],
+  "notes": "Website-confirmed means the subscription form showed success, not independently verified sustained delivery. Pending/unavailable brands remain watch-list candidates and may already send mail from older subscriptions. Never silently claim every listed brand is subscribed. No autonomous weekly Gmail-to-GitHub build or deployment has been enabled by this config."
+}
